@@ -1,0 +1,11 @@
+1) Soma = 91
+3) A=9; B=128; C=49; D=100 ; E=13; F= 200
+4) SCar = 0 + 110t ; SCam = 100 - 80t
+   110t + 80t = 100
+   t = 0,5263 horas para o encontro.
+   Porém, o caminhão vai ficar 10 minutos pra trás, 
+   então a velocidade dele se reduz para 70,59 km/h
+   110t + 70,59t = 100
+   t = 0,5537 horas para o encontro.
+   R: Quando eles se cruzarem o caminhao vai estar mais proximo de Ribeirão Preto
+   com 39,085 km de distancia, enquanto o carro vai estar com 39,093 km de distancia
